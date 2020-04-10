@@ -7,7 +7,7 @@ Script to extract info from Danish BBR.
 Check out the git repo to `/share/extract-bbr`, and do a
 
 ```bash
-chmod 644 extract-br*
+chmod 755 extract-br*
 chown root:root extract-br*
 ```
 
